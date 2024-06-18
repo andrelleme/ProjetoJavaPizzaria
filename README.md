@@ -1,5 +1,6 @@
 # Projeto Pizzaria
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+[![Java Version](https://img.shields.io/badge/Java-11%2B-orange)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+
 
 
 ## Descrição
